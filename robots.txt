@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://mathic.id/sitemap.xml
+Sitemap: https://mathicid.netlify.app/sitemap.xml

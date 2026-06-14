@@ -1,0 +1,6 @@
+# Mathic.id - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://mathic.id/sitemap.xml

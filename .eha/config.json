@@ -1,0 +1,9 @@
+{
+  "configVersion": 2,
+  "agent": "gemini",
+  "agents": [
+    "claude",
+    "antigravity",
+    "gemini"
+  ]
+}
